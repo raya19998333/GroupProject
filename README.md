@@ -131,15 +131,6 @@ EduTrack Oman – Training Center Management System
 </p>
 </div>
 
-<div style="background-color:#e6f0ff; padding:20px; border-left: 8px solid #1E90FF; border-radius:10px; box-shadow: 3px 3px 10px #aaa;">
-<h2>🛠 Technologies Used</h2>
-<ul>
-<li><b>Database:</b> MySQL / PostgreSQL</li>
-<li><b>Backend:</b> PHP / Python / Node.js</li>
-<li><b>Frontend:</b> HTML, CSS, JavaScript</li>
-<li><b>Reporting:</b> Excel / Power BI (optional)</li>
-</ul>
-</div>
 
 <div style="background-color:#ffe6e6; padding:20px; border-left: 8px solid #FF4500; border-radius:10px; box-shadow: 3px 3px 10px #aaa;">
 <h2>🚀 How to Use</h2>
